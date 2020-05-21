@@ -1,0 +1,23 @@
+{
+  "name": "mongoose4",
+  "version": "1.0.0",
+  "description": "Ejercicio npm mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crhdzalex/npm_mongoose.git"
+  },
+  "author": "Alejandro Cruz Hernández",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crhdzalex/npm_mongoose/issues"
+  },
+  "homepage": "https://github.com/crhdzalex/npm_mongoose#readme",
+  "dependencies": {
+    "mongoose": "^5.9.15"
+  }
+}
